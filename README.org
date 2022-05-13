@@ -89,3 +89,4 @@
 | 05/01/22 | JONES COUNTY, MS       | [[https://web.archive.org/web/20220503061429/https://www.msn.com/en-us/weather/topstories/jones-county-chicken-farm-destroyed-in-sunday-night-fire/ar-AAWQg4J][DESTROYED CATTLE/POULTRY/HOGS]]              |
 | 05/02/22 | FRESNO, CA             | [[https://web.archive.org/web/20220502174256/https://abc30.com/fresno-food-processing-plant-fire-saladinos-foodservice-amonia-leak-employees-evacuated/11811148/][SALADINO FOOD PROCESSING PLANT]]             |
 | 05/03/22 | BLACK RAPIDS, CANADA   | [[https://web.archive.org/web/20220504061318/https://ottawa.ctvnews.ca/massive-barn-fire-at-black-rapids-dairy-farm-1.3581508][DESTROYED CATTLE/POULTRY/HOGS]]              |
+| 05/12/22 | Peoria, IL             | [[https://web.archive.org/web/20220512204139/https://www.week.com/2022/05/12/major-grain-explosion-peorias-adm-plant/][Major grain explosion]]                      |
